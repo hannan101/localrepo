@@ -1,2 +1,1 @@
-This is my readme file
-local repo
+I practiced the clone of this repo
